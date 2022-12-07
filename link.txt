@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=cw0oVKCK4iU
+
+https://pt.stackoverflow.com/questions/181688/o-que-%C3%A9-cqrs-e-como-implementar
+
+https://www.martinfowler.com/bliki/CQRS.html
+
+https://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/
